@@ -1,3 +1,4 @@
+// Testing changes [@hrant]
 package expo.modules.barcodescanner.scanners
 
 import android.content.Context
